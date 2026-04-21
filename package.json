@@ -1,0 +1,15 @@
+{
+  "name": "bible-ffmpeg-server",
+  "version": "1.0.0",
+  "description": "FFmpeg merge server for Bible YouTube Shorts pipeline",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
